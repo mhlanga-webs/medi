@@ -1,0 +1,5 @@
+{
+  "name": "MEDI MIND Sentiment Analysis Dashboard 2.0",
+  "description": "An interactive dashboard to analyze sentiment in text data using AI. It provides multi-class classification, confidence scores, keyword extraction, and visualizations to understand emotional tone.",
+  "requestFramePermissions": []
+}
